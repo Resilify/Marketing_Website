@@ -10,7 +10,7 @@ This repository contains the source code for the marketing website of Resilify. 
 
 ## 🛠 Tech Stack
 The website is built using:
-- **Frontend:** HTML, CSS, JavaScript, Angular (if applicable)
+- **Frontend:** HTML, CSS, JavaScript
 - **Hosting:** VPS Hosting
 
 ## 🚀 Features
