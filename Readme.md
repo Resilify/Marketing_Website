@@ -33,7 +33,7 @@ The website is built using:
 ## 🙌 Credits
 This website was created by:
 - **Matheesha Sirisooriya**  
-  - GitHub: [msirisooriya](https://github.com/msirisooriya)  
+  - GitHub: [mksirisooriya](https://github.com/mksirisooriya)  
   - LinkedIn: [mksirisooriya](https://www.linkedin.com/in/mksirisooriya/)
 
 - **Kaveesh Tennakoon**  
